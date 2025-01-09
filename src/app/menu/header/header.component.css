@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hover-orange:hover {
+  color: #F79D30;
+}
