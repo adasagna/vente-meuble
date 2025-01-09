@@ -1245,4 +1245,8 @@
       opacity: 1;
       visibility: visible; }
     .product-section .product-item:hover:before {
-      height: 70%; }
+      height: 70%; 
+    }
+    .feature{
+      gap: 20px;
+    }
